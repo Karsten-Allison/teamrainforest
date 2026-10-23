@@ -1,0 +1,160 @@
+{
+  "Find one product": {
+    "milliseconds": 1.512,
+    "products": [
+      {
+        "_id": "0738700797",
+        "title": "Candlemas: Feast of Flames",
+        "group": "Book",
+        "avg_rating": 4.5,
+        "review_count": 12
+      }
+    ]
+  },
+  "DVDs rated at least 4.5": {
+    "milliseconds": 20.879,
+    "products": [
+      {
+        "_id": "0738900370",
+        "title": "G3 - Live in Concert",
+        "group": "DVD",
+        "avg_rating": 4.5,
+        "review_count": 65
+      },
+      {
+        "_id": "0767018877",
+        "title": "Monty Python's Flying Circus: Set 3, Episodes 14-19",
+        "group": "DVD",
+        "avg_rating": 4.5,
+        "review_count": 7
+      },
+      {
+        "_id": "0767817680",
+        "title": "Howards End",
+        "group": "DVD",
+        "avg_rating": 4.5,
+        "review_count": 41
+      },
+      {
+        "_id": "0767824555",
+        "title": "Hard Times",
+        "group": "DVD",
+        "avg_rating": 4.5,
+        "review_count": 33
+      },
+      {
+        "_id": "0767827635",
+        "title": "Stir Crazy",
+        "group": "DVD",
+        "avg_rating": 4.5,
+        "review_count": 15
+      }
+    ]
+  },
+  "Products with at least 100 reviews": {
+    "milliseconds": 2.001,
+    "products": [
+      {
+        "_id": "0939173379",
+        "title": "Harry Potter and the Goblet of Fire (Book 4)",
+        "group": "Book",
+        "avg_rating": 5.0,
+        "review_count": 4652
+      },
+      {
+        "_id": "0807220280",
+        "title": "Harry Potter and the Order of the Phoenix (Book 5, Audio)",
+        "group": "Book",
+        "avg_rating": 4.5,
+        "review_count": 4589
+      },
+      {
+        "_id": "0939173344",
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "group": "Book",
+        "avg_rating": 5.0,
+        "review_count": 4130
+      },
+      {
+        "_id": "0385504209",
+        "title": "The Da Vinci Code",
+        "group": "Book",
+        "avg_rating": 3.5,
+        "review_count": 3032
+      },
+      {
+        "_id": "0440224675",
+        "title": "Hannibal",
+        "group": "Book",
+        "avg_rating": 3.0,
+        "review_count": 2454
+      }
+    ]
+  },
+  "Products reviewed by one customer": {
+    "milliseconds": 6.629,
+    "products": [
+      {
+        "_id": "0028639197",
+        "title": "The Complete Idiot's Guide to Getting Published (2nd Edition)",
+        "group": "Book",
+        "avg_rating": 4.5,
+        "review_count": 55
+      },
+      {
+        "_id": "0028641965",
+        "title": "Financial Custody: You, Your Money, and Divorce",
+        "group": "Book",
+        "avg_rating": 5.0,
+        "review_count": 2
+      },
+      {
+        "_id": "0028643518",
+        "title": "Behind Bars: Surviving Prison",
+        "group": "Book",
+        "avg_rating": 4.5,
+        "review_count": 32
+      },
+      {
+        "_id": "0061050989",
+        "title": "Cat Spitting Mad: A Joe Grey Mystery (Joe Grey Mysteries (Hardcover))",
+        "group": "Book",
+        "avg_rating": 5.0,
+        "review_count": 6
+      },
+      {
+        "_id": "0071381392",
+        "title": "The No-Cry Sleep Solution: Gentle Ways to Help Your Baby Sleep Through the Night",
+        "group": "Book",
+        "avg_rating": 4.5,
+        "review_count": 343
+      }
+    ]
+  },
+  "Related products": {
+    "milliseconds": 4.122,
+    "products": [
+      {
+        "_id": "0764110438",
+        "title": "Shih Tzu Complete Owner's Manual",
+        "group": "Book",
+        "avg_rating": 2.5,
+        "review_count": 4
+      },
+      {
+        "_id": "0793805090",
+        "title": "The Official Book of the Shih Tzu (Ts-305)",
+        "group": "Book",
+        "avg_rating": 5.0,
+        "review_count": 12
+      },
+      {
+        "_id": "0793827531",
+        "title": "A New Owner's Guide to Shih Tzu (JG Dog)",
+        "group": "Book",
+        "avg_rating": 4.0,
+        "review_count": 1
+      }
+    ]
+  }
+}
